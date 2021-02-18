@@ -35,6 +35,10 @@ Assignments:
 
 ## (2/19, 2/19) Week 2
 
+[Lecture Slides](materials/ReactIntro(2019).pdf)
+
+[Learn React 1: Step by Step](materials/learn-react-1.md)
+
 Topics:
 
 - React Intro
