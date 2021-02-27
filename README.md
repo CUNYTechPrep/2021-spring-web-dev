@@ -18,7 +18,7 @@
 
 [Bootstrap Lab](https://github.com/CUNYTechPrep/bootstrap-lab)
 
-Topics: 
+Topics:
 
 - Semester Overview
 - Designing Web Apps
@@ -51,6 +51,12 @@ Assignments:
   * [Submit Here](https://forms.gle/oM7AR3TmMsgNsiFUA)
 
 ## (2/25, 2/26) Week 3
+
+[Lecture Slides: URL's and HTTP Request-Response](materials/urls-http-request-response.pdf)
+
+[Lecture Slides: fetch() and React](materials/fetch-and-react(2019).pdf)
+
+[Zip Code React Lab](https://github.com/CUNYTechPrep/zip-code-react-lab)
 
 Topics:
 
