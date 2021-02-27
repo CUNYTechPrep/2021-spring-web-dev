@@ -4,7 +4,7 @@
 
 ---
 
-# Fall 2020 Web Dev/Data Science Track <br />_Class Schedule and Materials_
+# Spring 2021 Web Dev Track <br />_Class Schedule and Materials_
 
 ## Winter Prep Work
 
