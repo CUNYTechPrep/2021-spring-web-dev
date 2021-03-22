@@ -73,7 +73,7 @@ Topics:
 Topics:
 
 - More `fetch()` and React
-- React Router
+- ~~React Router~~ (later in the semester)
 
 ## (3/11, 3/12) Week 5
 
@@ -94,13 +94,15 @@ Topics:
 
 ## (3/18, 3/19) Week 6
 
+[Lecture Slides: SLDC, MVC, Data Modeling](materials/lecture-05.pdf)
+
 Topics:
 
 - SDLC
 - MVC (_Models-Views-Controllers_) Project Structure
 - Databases and Data Modeling
 - ORM's (Sequelize.js)
-- Views and Templates (Handlebars)
+- ~~Views and Templates (Handlebars)~~
 
 ## (3/25, 3/26) Week 7
 
