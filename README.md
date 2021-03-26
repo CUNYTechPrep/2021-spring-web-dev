@@ -106,6 +106,8 @@ Topics:
 
 ## (3/25, 3/26) Week 7
 
+[Project Starter repository](https://github.com/CUNYTechPrep/project-starter)
+
 Topics:
 
 - Using MVC app structure
